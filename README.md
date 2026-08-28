@@ -1,0 +1,2 @@
+# SDC
+Secure PHP-based dental clinic payment system with role-based access for admin and front desk staff. Record payments, manage services, track collections, generate receipts, and export financial reports. Built with PHP/MySQL for reliable clinic financial management.
